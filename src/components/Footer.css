@@ -1,0 +1,10 @@
+/* src/components/Footer.css */
+.footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: chocolate;
+  color: #fff;
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+}
